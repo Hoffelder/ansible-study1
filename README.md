@@ -1,2 +1,2 @@
 # ansible-study1
-Reproducing an local server using Ansible, Matrix, and Yaml pipelines. 
+Reproducing a study using Ansible, Matrix, and Yaml pipelines. 
